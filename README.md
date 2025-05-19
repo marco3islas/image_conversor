@@ -18,7 +18,6 @@ Esta aplicación resuelve exactamente ese problema: permite convertir entre form
 * Conversión entre múltiples formatos de imagen (JPEG, PNG, WebP, etc.)
 * Ajuste de calidad mediante un control deslizante intuitivo
 * Procesamiento por lotes para convertir múltiples imágenes a la vez
-* Visualización previa de la imagen seleccionada
 * Interfaz gráfica limpia y fácil de usar desarrollada con PyQt6
 
 ## 🤖Tecnologias usadas:
