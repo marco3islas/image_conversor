@@ -72,8 +72,10 @@ python main.py
 
 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes sugerencias para mejorar la aplicación, no dudes en abrir un issue o enviar un pull request.
+
 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 👨‍💻 Autor
 Marco Antonio Islas
 
@@ -81,5 +83,6 @@ Marco Antonio Islas
 ``` url
 https://github.com/marco3islas/image_conversor
 ```
-```
+
+
 Author: 🧑 "Marco Antonio Islas"
